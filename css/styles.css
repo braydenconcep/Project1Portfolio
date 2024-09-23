@@ -1,8 +1,31 @@
+
 body {
-    background-color: green;
+    background-color: gray;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+a { text-decoration: none; 
+    color: white;
+    margin-bottom: 10px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-right: 90px; 
+    padding-left: 90px;
+
 
 }
 
 h1 {
+    margin-bottom: 10px; 
+    padding-top: 12px; 
+    padding-bottom: 10px;
+    padding-right: 15px; 
+    padding-left: 15px;
     text-align: center;
+    text-transform: uppercase;
+    background-color: #d2b48c7f;
+
 }
