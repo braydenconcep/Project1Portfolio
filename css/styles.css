@@ -1,7 +1,10 @@
 body {
+  position: absolute;
+  left: 0; top: 0;
   background-color: gray;
   text-align: center;
   text-decoration: none;
+
 }
 
 p {
